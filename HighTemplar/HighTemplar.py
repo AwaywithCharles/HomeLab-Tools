@@ -62,7 +62,7 @@ class MACChanger:
         master.configure(bg="black")
         
         # Set the width and height of the window
-        window_width = 550
+        window_width = 580
         window_height = 420
 
         # Get the width and height of the screen
